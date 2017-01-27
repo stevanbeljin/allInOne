@@ -5,5 +5,12 @@
     "answer" : "JS",
     "points" : 5,
     "category" : "programming" 
+  },
+  {
+   "text":"najbolje masaze ?",
+    "options":["kineska","japanska","tajlandjanska","senagalska"],
+    "answer" : "tajlandjanska",
+    "points" : 10,
+    "category" : "life" 
   }
 ]
