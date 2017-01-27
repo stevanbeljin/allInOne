@@ -1,0 +1,1 @@
+alert('Ovo cudo radi');
