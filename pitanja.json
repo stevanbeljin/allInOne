@@ -1,0 +1,9 @@
+[
+  {
+    "text":"OOP jezik je ?",
+    "options":["JS","CSS","AJAX","C"],
+    "answer" : "JS",
+    "points" : 5,
+    "category" : "programming" 
+  }
+]
